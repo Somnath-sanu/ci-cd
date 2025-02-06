@@ -8,6 +8,7 @@ export default async function Home() {
       {user?.email}
       {user?.name}
       Frontend is working
+      Next js /
     </div>
   );
 }
